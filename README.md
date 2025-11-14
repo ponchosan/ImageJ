@@ -2,5 +2,5 @@
 ImageJマクロ保管用
 
 ## 使用環境
-- ImageJ
+- ImageJ　1.54J
 - Windows 11
